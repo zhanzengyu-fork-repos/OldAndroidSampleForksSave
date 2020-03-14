@@ -1,3 +1,3 @@
 # 获取组件方式
 
-方式一：通过 **findViewById** 获取
+方式三：通过 **DataBinding** 获取
